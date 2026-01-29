@@ -52,6 +52,40 @@ I am a Data Analyst with a passion for transforming complex data into actionable
 </table>
 
 ---
+## 🚀 Featured Projects
+
+---
+
+### 🏙️ Smart City Analytics: Konstanz 2026
+**Tools:** `Python` | `Pandas` | `Matplotlib` | `ETL Pipeline`
+
+* **Objective:** Developed an end-to-end ETL and analysis framework for urban environmental monitoring.
+* **Action:** Integrated disparate Air Quality (PM2.5, NO₂) and Weather datasets to identify hourly pollution patterns.
+* **Outcome:** Pinpointed specific environmental correlations and deviations for Jan 1, 2026, demonstrating a full data lifecycle workflow.
+
+[📂 View Repository](https://github.com/yourusername/smart-city-konstanz) | [📓 Demo Notebook](#)
+
+---
+
+### 📊 E-Commerce Sales Performance Dashboard
+**Tools:** `Power BI` | `DAX` | `Power Query` | `Data Modeling`
+
+* **Objective:** Designed a comprehensive 4-page interactive analytics suite for business intelligence.
+* **Action:** Processed **10,000+ transaction records**, implementing complex DAX measures for profit margins and customer segmentation.
+* **Outcome:** Delivered actionable insights—such as identifying that Technology drives 37% of revenue—within a mobile-optimized interface.
+
+[📊 View Dashboard](https://github.com/yourusername/ecommerce-dashboard) | [📄 Case Study](#)
+
+---
+
+### 🏦 Financial Fraud Detection
+**Tools:** `Python` | `Scikit-Learn` | `SQL`
+
+* **Objective:** Automated anomaly detection for fintech auditing.
+* **Action:** Built and tuned a machine learning model to identify suspicious transaction patterns.
+* **Outcome:** Achieved **94% precision**, significantly reducing manual audit overhead.
+
+[📂 View Repository](https://github.com/yourusername/fraud-detection)
 
 ## Featured Projects
 
