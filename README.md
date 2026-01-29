@@ -102,20 +102,13 @@ Created behavioral segmentation model resulting in **35% engagement uplift**.
 <tr>
 <td width="50%">
 
-### Senior Data Analyst
-**Company Name** | Duration  
-- Built executive dashboards and automated reporting systems
-- Optimized data pipelines reducing query time by 40%
-- Led cross-functional analytics initiatives with stakeholders
-
-</td>
-<td width="50%">
-
 ### Data Analyst
-**Previous Company** | Duration  
-- Performed exploratory data analysis on large datasets
-- Created SQL reports for 50+ business stakeholders
-- Identified cost optimization opportunities worth $XXX K
+**LueurTech Software Solutions Pvt Ltd** | Jan 2024 - Dec 2024  
+- Performed Exploratory Analysis over the massive marketing sales data using SQL and Python
+- Contributed to data cleaning workflows, improving data quality by 15%
+- Created data visualizations in Power BI for business presentations
+- Tracking KPI metrics for campaign effectiveness
+- Collaborated with teams to align analytics with business requirements
 
 </td>
 </tr>
@@ -125,30 +118,21 @@ Created behavioral segmentation model resulting in **35% engagement uplift**.
 
 ## Education & Certifications
 
-**Education**
-- Degree/Specialization in Data Analytics
-- Institution Name | Year
 
 **Certifications**
-- Google Data Analytics Certificate
 - Microsoft Certified: Data Analyst
-- Tableau Desktop Specialist
 
 ---
 
 ## Key Achievements
 
-- ✅ Reduced reporting time by **60%** through process automation
-- ✅ Identified **$500K+** cost-saving opportunities across departments
-- ✅ Created dashboards used by **1000+** daily active users
-- ✅ Improved data accuracy by **98%** across enterprise datasets
-- ✅ Mentored 5+ junior analysts in best practices and technical skills
+- ✅ Participated in the HFT Hackathon Event, worked with a team of 3 to analyze the sensor data and optimize the energy heating schedules.
+- ✅ Involved in a Software Project at HFT to perform ETL process from different social media platforms and ingest the refined data into the company platform to correlate the given data and the AI-driven ChatBot produced to evaluate the trust of data.
 
 ---
 
 ## Currently Learning
 
-- Advanced NLP for Sentiment Analysis
 - Cloud Architecture (AWS/GCP)
 - Advanced ETL Pipeline Design
 - Machine Learning in Production
@@ -157,8 +141,8 @@ Created behavioral segmentation model resulting in **35% engagement uplift**.
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/charan-kumar-kharade-s-b61208283/)
+- **Email:** [your.email@example.com](mailto:charankk8951@gmail.com)
 - **Portfolio:** [Your Website](https://yourwebsite.com)
 - **GitHub:** [CharanKumarKharade](https://github.com/CharanKumarKharade)
 
