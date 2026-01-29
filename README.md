@@ -22,14 +22,14 @@ I am a Data Analyst with a passion for transforming complex data into actionable
 
 **💻 Programming Languages**
 
-🐍 Python | 📜 SQL | 📈 R | 🟨 JavaScript
+🐍 Python | 📜 SQL | 📈 R | 🟨 Java
 
 </td>
 <td width="50%">
 
 **👁️ Data Visualization & BI Tools**
 
-📊 Tableau | ⚡ Power BI | 📉 Plotly | 🎨 Seaborn | 🌐 Google Data Studio
+📊 Tableau | ⚡ Power BI | 📉 Plotly | 🌐 Google Data Studio
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ I am a Data Analyst with a passion for transforming complex data into actionable
 * **Action:** Integrated disparate Air Quality (PM2.5, NO₂) and Weather datasets to identify hourly pollution patterns.
 * **Outcome:** Pinpointed specific environmental correlations and deviations for Jan 1, 2026, demonstrating a full data lifecycle workflow.
 
-[📂 View Repository](https://github.com/yourusername/smart-city-konstanz) | [📓 Demo Notebook](#)
+[📂 View Repository](https://github.com/CharanKumarKharade/Smart-City-Analytics-Konstanz) | [📓 Demo Notebook](#)
 
 ---
 
@@ -74,59 +74,7 @@ I am a Data Analyst with a passion for transforming complex data into actionable
 * **Action:** Processed **10,000+ transaction records**, implementing complex DAX measures for profit margins and customer segmentation.
 * **Outcome:** Delivered actionable insights—such as identifying that Technology drives 37% of revenue—within a mobile-optimized interface.
 
-[📊 View Dashboard](https://github.com/yourusername/ecommerce-dashboard) | [📄 Case Study](#)
-
----
-
-### 🏦 Financial Fraud Detection
-**Tools:** `Python` | `Scikit-Learn` | `SQL`
-
-* **Objective:** Automated anomaly detection for fintech auditing.
-* **Action:** Built and tuned a machine learning model to identify suspicious transaction patterns.
-* **Outcome:** Achieved **94% precision**, significantly reducing manual audit overhead.
-
-[📂 View Repository](https://github.com/yourusername/fraud-detection)
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 📊 Retail Growth Analytics
-**Tools:** Python | SQL | Tableau  
-Analyzed 1M+ transactions to identify customer churn drivers, resulting in a **12% retention boost**.  
-[View Repository](#)
-
-</td>
-<td width="50%">
-
-### 🏦 Financial Fraud Detection
-**Tools:** Python | Scikit-Learn | SQL  
-Developed an automated anomaly detection model with **94% precision** for fintech auditing.  
-[View Repository](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Sales Forecasting
-**Tools:** Python | Time Series | Pandas  
-Built predictive model for quarterly revenue forecasting with **±3% accuracy**.  
-[View Repository](#)
-
-</td>
-<td width="50%">
-
-### 🎯 Customer Segmentation
-**Tools:** Python | ML | Tableau  
-Created behavioral segmentation model resulting in **35% engagement uplift**.  
-[View Repository](#)
-
-</td>
-</tr>
-</table>
+[📊 View Dashboard](https://github.com/CharanKumarKharade/e-commerce-sales-dashboard) | [📄 Case Study](https://github.com/CharanKumarKharade/e-commerce-sales-dashboard/tree/main/documentation)
 
 ---
 
