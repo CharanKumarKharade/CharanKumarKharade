@@ -56,17 +56,6 @@ I am a Data Analyst with a passion for transforming complex data into actionable
 
 ---
 
-### 🏙️ Smart City Analytics: Konstanz 2026
-**Tools:** `Python` | `Pandas` | `Matplotlib` | `ETL Pipeline`
-
-* **Objective:** Developed an end-to-end ETL and analysis framework for urban environmental monitoring.
-* **Action:** Integrated disparate Air Quality (PM2.5, NO₂) and Weather datasets to identify hourly pollution patterns.
-* **Outcome:** Pinpointed specific environmental correlations and deviations for Jan 1, 2026, demonstrating a full data lifecycle workflow.
-
-[📂 View Repository](https://github.com/CharanKumarKharade/Smart-City-Analytics-Konstanz) | [📓 Demo Notebook](#)
-
----
-
 ### 📊 E-Commerce Sales Performance Dashboard
 **Tools:** `Power BI` | `DAX` | `Power Query` | `Data Modeling`
 
