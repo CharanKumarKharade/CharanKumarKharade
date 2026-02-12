@@ -1,12 +1,12 @@
 # Charan Kumar Kharade
 
-**Data Analyst | Business Intelligence Strategist**
+**Data Engineer| Business Intelligence **
 
 ---
 
 ## About Me
 
-I am a Data Analyst with a passion for transforming complex data into actionable business insights. With expertise in BI tools, SQL, and Python, I help organizations make data-driven decisions that drive growth and efficiency.
+I am a Data Engineer with a passion for transforming complex data into actionable business insights. With expertise in BI tools, SQL, and Python, I help organizations make data-driven decisions that drive growth and efficiency.
 
 **Specialization:** Business Intelligence & Data Analytics  
 **Approach:** Strategic, Analytical, Results-Oriented  
