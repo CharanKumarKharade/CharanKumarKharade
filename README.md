@@ -1,123 +1,66 @@
-# Charan Kumar Kharade
+# Servus! I'm Charan Kumar Kharade 🚀
 
-**Data Engineer| Business Intelligence **
-
----
-
-## About Me
-
-I am a Data Engineer with a passion for transforming complex data into actionable business insights. With expertise in BI tools, SQL, and Python, I help organizations make data-driven decisions that drive growth and efficiency.
-
-**Specialization:** Business Intelligence & Data Analytics  
-**Approach:** Strategic, Analytical, Results-Oriented  
-**Core Strength:** Translating complex data into strategic insights
+### 📊 Data Engineer | Business Intelligence Analyst | M.Sc. Software Technology @ HFT Stuttgart
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charan-rao-b61208283/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:charankk8951@gmail.com)
+[![German Level](https://img.shields.io/badge/Language-German%20B1%20(In%20Progress)-green)](https://www.telc.net/)
 
 ---
 
-## Skills & Expertise
+## 💫 About Me
+I am a Data-driven professional based in **Stuttgart, Germany**, specializing in transforming raw, complex data into scalable architectures and actionable business insights. Currently, I am a Master's candidate focusing on advanced data visualization and cloud-native data engineering.
 
-<table width="100%">
-<tr>
-<td width="50%">
-
-**💻 Programming Languages**
-
-🐍 Python | 📜 SQL | 📈 R | 🟨 Java
-
-</td>
-<td width="50%">
-
-**👁️ Data Visualization & BI Tools**
-
-📊 Tableau | ⚡ Power BI | 📉 Plotly | 🌐 Google Data Studio
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💾 Database Management**
-
-🐘 PostgreSQL | 🐬 MySQL | 🍃 MongoDB | 🗄️ SQL Server
-
-</td>
-<td width="50%">
-
-**☁️ Cloud & Infrastructure**
-
-☁️ AWS | ☁️ GCP | ❄️ Snowflake | 🏗️ dbt/Airflow | 🌲 Git & GitHub
-
-</td>
-</tr>
-</table>
+- 🔭 **Current Focus:** Dynamic Network Visualization for the **Graph Drawing 2026** competition.
+- 🎓 **Education:** M.Sc. Software Technology (Scholarship Recipient: Studienstiftung der HFT Stuttgart).
+- 🇩🇪 **Language:** Fluent English & currently mastering **German (Preparing for Telc B1)**.
+- ⚡ **Goal:** Building high-performance data pipelines and interactive BI ecosystems.
 
 ---
+
+## 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Pandas, PySpark), SQL (Advanced), Java, R |
+| **BI & Viz** | Power BI (DAX), Tableau, Looker, Plotly, Grafana |
+| **Data Engineering** | ETL/ELT, Medallion Architecture, Airflow, dbt |
+| **Cloud & DB** | Azure (ADF, Databricks), Snowflake, PostgreSQL, MongoDB |
+| **DevOps/Tools** | Docker, Git, GitHub Actions, Jira |
+
+---
+
 ## 🚀 Featured Projects
 
----
+### 📈 [E-Commerce Sales Performance Dashboard](https://github.com/CharanKumarKharade/e-commerce-sales-dashboard)
+*Interactive Power BI suite analyzing 10,000+ transactions.*
+- **Impact:** Identified Technology as the lead revenue driver (37%) and optimized regional marketing spend.
+- **Stack:** Power BI, DAX, Power Query, Star Schema Modeling.
 
-### 📊 E-Commerce Sales Performance Dashboard
-**Tools:** `Power BI` | `DAX` | `Power Query` | `Data Modeling`
+### 🚕 [Real-Time Trip Analytics (Uber Simulation)](https://github.com/CharanKumarKharade/real-time-trip-analytics)
+*End-to-end Lakehouse architecture on Azure.*
+- **Impact:** Implemented **Medallion Architecture** to process real-time streams, reducing latency for surge-pricing insights.
+- **Stack:** Azure Event Hubs, Databricks, PySpark Structured Streaming, Delta Lake.
 
-* **Objective:** Designed a comprehensive 4-page interactive analytics suite for business intelligence.
-* **Action:** Processed **10,000+ transaction records**, implementing complex DAX measures for profit margins and customer segmentation.
-* **Outcome:** Delivered actionable insights—such as identifying that Technology drives 37% of revenue—within a mobile-optimized interface.
-
-[📊 View Dashboard](https://github.com/CharanKumarKharade/e-commerce-sales-dashboard) | [📄 Case Study](https://github.com/CharanKumarKharade/e-commerce-sales-dashboard/tree/main/documentation)
-
----
-
-## Professional Experience
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### Data Analyst
-**LueurTech Software Solutions Pvt Ltd** | Jan 2024 - Dec 2024  
-- Performed Exploratory Analysis over the massive marketing sales data using SQL and Python
-- Contributed to data cleaning workflows, improving data quality by 15%
-- Created data visualizations in Power BI for business presentations
-- Tracking KPI metrics for campaign effectiveness
-- Collaborated with teams to align analytics with business requirements
-
-</td>
-</tr>
-</table>
+### 🕸️ [Visualizing Dynamic Voting Patterns (Eurovision)](https://github.com/CharanKumarKharade/eurovision-viz)
+*Academic Research for GD 2026 International Competition.*
+- **Focus:** Multivariate network analysis and temporal data transformation using Python.
 
 ---
 
-## Education & Certifications
-
-
-**Certifications**
-- Microsoft Certified: Data Analyst
-
----
-
-## Key Achievements
-
-- ✅ Participated in the HFT Hackathon Event, worked with a team of 3 to analyze the sensor data and optimize the energy heating schedules.
-- ✅ Involved in a Software Project at HFT to perform ETL process from different social media platforms and ingest the refined data into the company platform to correlate the given data and the AI-driven ChatBot produced to evaluate the trust of data.
+## 🏆 Achievements
+- 🥉 **3rd Prize** – HFT Stuttgart Hackathon (2025): Optimized energy heating schedules using sensor data.
+- 🎓 **Scholarship Recipient** – Studienstiftung der HFT Stuttgart (Academic Merit).
+- 🤝 **Software Project @ HFT:** Built an ETL pipeline correlating social media data with AI-driven ChatBots to evaluate data trust.
 
 ---
 
-## Currently Learning
-
-- Cloud Architecture (AWS/GCP)
-- Advanced ETL Pipeline Design
-- Machine Learning in Production
+## 📈 My GitHub Stats
+![Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharanKumarKharade&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKumarKharade&layout=compact&theme=radical)
 
 ---
 
-## Connect With Me
+### Let's connect!
+If you're looking for a data enthusiast who brings both technical skills and a "Growth Mindset" to your team, feel free to reach out! 
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/charan-kumar-kharade-s-b61208283/)
-- **Email:** [your.email@example.com](mailto:charankk8951@gmail.com)
-- **Portfolio:** [Your Website](https://yourwebsite.com)
-- **GitHub:** [CharanKumarKharade](https://github.com/CharanKumarKharade)
-
----
-
-Let's work together on data-driven solutions! 🚀
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charan-rao-b61208283/)
