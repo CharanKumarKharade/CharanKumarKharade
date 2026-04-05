@@ -63,4 +63,4 @@ I am a Data-driven professional based in **Stuttgart, Germany**, specializing in
 ### Let's connect!
 If you're looking for a data enthusiast who brings both technical skills and a "Growth Mindset" to your team, feel free to reach out! 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charan-rao-b61208283/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/charan-kumar-kharade-b61208283/)
