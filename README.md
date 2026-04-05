@@ -1,7 +1,7 @@
 # Servus! I'm Charan Kumar Kharade 🚀
 
 ### 📊 Data Engineer | Business Intelligence Analyst | M.Sc. Software Technology @ HFT Stuttgart
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/charan-rao-b61208283/](https://www.linkedin.com/in/charan-kumar-kharade-b61208283/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/charan-kumar-kharade-b61208283/)])
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:charankk8951@gmail.com)
 [![German Level](https://img.shields.io/badge/Language-German%20B1%20(In%20Progress)-green)](https://www.telc.net/)
 
