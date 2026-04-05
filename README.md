@@ -21,11 +21,11 @@ I am a Data-driven professional based in **Stuttgart, Germany**, specializing in
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, PySpark), SQL (Advanced), Java, R |
-| **BI & Viz** | Power BI (DAX), Tableau, Looker, Plotly, Grafana |
+| **Languages** | Python (Pandas, PySpark), SQL (Advanced), Java |
+| **BI & Viz** | Power BI (DAX), Tableau, Looker |
 | **Data Engineering** | ETL/ELT, Medallion Architecture, Airflow, dbt |
-| **Cloud & DB** | Azure (ADF, Databricks), Snowflake, PostgreSQL, MongoDB |
-| **DevOps/Tools** | Docker, Git, GitHub Actions, Jira |
+| **Cloud & DB** | Azure (ADF, Databricks), PostgreSQL, MongoDB |
+| **DevOps/Tools** | Docker, Git, Kubernetes, Jira |
 
 ---
 
