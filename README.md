@@ -37,7 +37,7 @@ Analyzed 10k+ transactions. The focus here was data modeling—I used Star Schem
 ## 🛠️ My Toolbox
 
 - **Data Engineering:** PySpark, Azure Data Factory, Databricks, Airflow, dbt, Medallion Architecture.
-- **Languages:** Python (Pandas), SQL (Advanced), Java, R.
+- **Languages:** Python (Pandas, Numpy), SQL (Advanced).
 - **Analytics & Viz:** Power BI (DAX), Tableau, NetworkX, Looker.
 - **DevOps:** Docker, Kubernetes, Git, CI/CD.
 - **AI/ML:** RAG, Azure OpenAI, Vector Databases.
@@ -48,16 +48,6 @@ Analyzed 10k+ transactions. The focus here was data modeling—I used Star Schem
 - 🥉 **3rd Prize** @ HFT Stuttgart Hackathon (2025) – Energy optimization using sensor data.
 - 🎓 **Scholarship Recipient** – Studienstiftung der HFT Stuttgart.
 - 🤝 **Volunteer:** NSS Volunteer and cre8 Café support at HFT.
-
----
-
-## 📊 The Numbers
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharanKumarKharade&show_icons=true&theme=radical" alt="Charan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanKumarKharade&layout=compact&theme=radical" alt="Top Langs" width="40%" />
-</p>
-
----
 
 ### Let's build something!
 I'm always open to discussing data engineering, cloud-native pipelines, or Applied AI. If you're in Stuttgart or looking for a performance-focused engineer, feel free to reach out.
