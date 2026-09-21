@@ -32,7 +32,7 @@ I enjoy working at the intersection of **data engineering, analytics, and busine
 
 ## 🚀 What I've Been Building
 
-### 🕸️ [Dynamic Voting Patterns](https://github.com/CharanKumarKharade/eurovision-viz)
+### 🕸️ [Dynamic Voting Patterns]([https://github.com/CharanKumarKharade/eurovision-viz](https://github.com/CharanKumarKharade/eurovision-visualisation)
 
 **GD Contest 2026 — Academic Research Project**
 
